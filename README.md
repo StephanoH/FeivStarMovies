@@ -9,7 +9,7 @@
 * Vivien Kuo [@viKuo](https://github.com/viKuo)
 
 ## Demo
-[fievstarmovies.herokuapp.com](fievstarmovies.herokuapp.com) | [Watch Demo!](https://drive.google.com/file/d/0BwhMC8fspCz7dk5NeEtvRlBFVnM/view)
+[fievstarmovies.herokuapp.com](fievstarmovies.herokuapp.com) | [Watch Demo!](https://vimeo.com/178831129)
 
 ![screenshot1](http://i.imgur.com/83io7lr.png) ![screenshot1](http://i.imgur.com/wn4lHXy.png)
 
