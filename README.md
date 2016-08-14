@@ -11,6 +11,8 @@
 ## Demo
 [fievstarmovies.herokuapp.com](fievstarmovies.herokuapp.com) | [Watch Demo!](https://vimeo.com/178831129)
 
+**Explore with demo username & password: DemoUsername / 1234**
+
 ![screenshot1](http://i.imgur.com/83io7lr.png) ![screenshot1](http://i.imgur.com/wn4lHXy.png)
 
 ## Project Description
